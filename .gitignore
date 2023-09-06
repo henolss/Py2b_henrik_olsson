@@ -159,7 +159,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Excersizes
-week2/Exercise*
+# Excersices
+**/Exercise*
 week2/Puppy*
-week2/untitled*
+**/untitled*
+*.pptx
